@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>393E36BA-8E2D-4520-9AD3-5C2C682B78BC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DemoForReachAbility</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>10D28208-DEBC-4A34-A36F-47FA4E14714E</key>
+		<string>https://github.com/darklinden/DemoForReachAbility.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DemoForReachAbility.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>10D28208-DEBC-4A34-A36F-47FA4E14714E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/darklinden/DemoForReachAbility.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>10D28208-DEBC-4A34-A36F-47FA4E14714E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>10D28208-DEBC-4A34-A36F-47FA4E14714E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DemoForReachAbility</string>
+		</dict>
+	</array>
+</dict>
+</plist>
